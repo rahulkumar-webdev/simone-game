@@ -31,3 +31,9 @@ p {
 .green {
   background-color: #63aac0;
 }
+.flash {
+  background: white;
+}
+.userclick {
+  background-color: green;
+}
